@@ -1,0 +1,24 @@
+{
+  "name": "tapable_demo",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "tapableDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FunnyLiu/tapableDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FunnyLiu/tapableDemo/issues"
+  },
+  "homepage": "https://github.com/FunnyLiu/tapableDemo#readme",
+  "dependencies": {
+    "tapable": "^2.0.0"
+  }
+}
